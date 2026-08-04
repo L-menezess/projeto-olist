@@ -50,6 +50,11 @@ Pedidos e receita cresceram de forma quase contínua entre 2016 e 2018, com pico
 
 ![Receita mensal](images/02_receita_por_mes.png)
 
+**Volume de vendas não é o mesmo que receita**
+`relogios_presentes` vende bem menos que `cama_mesa_banho`, mas gera receita quase tão alta — ticket médio muito mais alto. Categorias de giro (alto volume, ticket baixo) pedem estratégia diferente das categorias de margem (baixo volume, ticket alto).
+
+![Vendas x receita por categoria](images/10_vendas_x_receita_categoria.png)
+
 **Prazo de entrega é o maior driver de satisfação**
 A nota média do cliente cai de **4,28 para 2,25** quando o pedido chega atrasado — o maior impacto identificado em toda a análise.
 
